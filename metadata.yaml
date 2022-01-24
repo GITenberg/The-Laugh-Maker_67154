@@ -1,0 +1,36 @@
+_repo: The-Laugh-Maker_67154
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hoskins, Gayle Porter
+    birthdate: 1887
+    deathdate: 1962
+    gutenberg_agent_id: '32695'
+    url: http://www.gutenberg.org/2009/agents/32695
+    wikipedia: https://en.wikipedia.org/wiki/Gayle_Porter_Hoskins
+creator:
+  author:
+    agent_name: Curwood, James Oliver
+    birthdate: 1878
+    deathdate: 1927
+    gutenberg_agent_id: '1487'
+    url: http://www.gutenberg.org/2009/agents/1487
+    wikipedia: https://en.wikipedia.org/wiki/James_Oliver_Curwood
+description: ''
+gutenberg_issued: '2022-01-13'
+identifiers:
+  gutenberg: '67154'
+language: en
+pgterms:marc904: https://archive.org/details/RedBookV018N06191204_201807
+pgterms:marc905: 20220111022706curwood
+pgterms:marc906: '1912'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: United States :The Red Book Corporation,1912.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Laugh Maker
+url: http://www.gutenberg.org/ebooks/67154
