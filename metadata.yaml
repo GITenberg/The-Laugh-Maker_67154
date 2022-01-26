@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '32695'
     url: http://www.gutenberg.org/2009/agents/32695
     wikipedia: https://en.wikipedia.org/wiki/Gayle_Porter_Hoskins
+covers:
+- cover_type: archival
+  image_path: 67154-h/images/cover.jpg
 creator:
   author:
     agent_name: Curwood, James Oliver
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1487
     wikipedia: https://en.wikipedia.org/wiki/James_Oliver_Curwood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67154#The-Laugh-Maker
 gutenberg_issued: '2022-01-13'
 identifiers:
   gutenberg: '67154'
